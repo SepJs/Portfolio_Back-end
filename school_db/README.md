@@ -75,5 +75,6 @@ Run analytics to see the magic:
 
 Bash
 sqlite3 school_hub.db < queries.sql
-📄 License
+
+## 📄 License
 This architecture is completely open-source and released under the MIT License. Feel free to fork, optimize, or deploy!
